@@ -1,0 +1,1 @@
+Kedrin is the preeminent city in the Southern continent of Montaire
