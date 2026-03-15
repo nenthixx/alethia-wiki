@@ -2,4 +2,6 @@
 
 The party meets in the city of [[Kedrin]]
 
+[[Deities]]
+
 The world of Alethia awaits
