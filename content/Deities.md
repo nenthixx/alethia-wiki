@@ -1,9 +1,3 @@
----
-draft: true
----
-
-
-
 ## Celestial Host
 
 ### Dhakaal: The Inevitable End
